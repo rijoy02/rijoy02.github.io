@@ -1,6 +1,6 @@
 Hello and welcome to this blog. 
 
-![Image of fast.ai logo](images/untitled(3).png)
+![Image](images/ds_instructor.png)
 
 ## Data Science concepts learning Blog post
 
